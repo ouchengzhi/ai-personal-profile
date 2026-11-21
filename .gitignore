@@ -1,0 +1,6 @@
+# 本地临时文件与个人笔记，不要提交
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.private/
